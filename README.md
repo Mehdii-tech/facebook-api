@@ -24,7 +24,7 @@
 
 ## Description
 
-A little facebook-API is REST API using [NestJS](https://github.com/nestjs/nest)
+A little facebook-REST-API using [NestJS](https://github.com/nestjs/nest)
 
 ## Installation
 
