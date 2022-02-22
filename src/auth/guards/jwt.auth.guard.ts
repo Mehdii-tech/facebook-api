@@ -18,4 +18,4 @@ export class JwtAuthGuard extends AuthGuard('jwt') implements CanActivate {
 	}
 }
 
-// Va activer le guard si il ne trouve pas le tag Public (si isPublic === false)
+// Va activer le guard si il ne trouve pas le tag Public (si isPublic === undefined)
